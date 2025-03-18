@@ -1,4 +1,4 @@
-# uth-smart-task
+# UTH-Smart-Task
 
 <div align="center">
   <table>
