@@ -1,8 +1,8 @@
 # UTH-Smart-Task
 
 <div align="center">
-  <h2>TRANG ĐẦU</h2>
   <table>
+    <h2>TRANG ĐẦU</h2>
     <tr>
       <td colspan="3">
         <img src="https://github.com/user-attachments/assets/6b72a652-6521-4658-b613-52a7157e06bf" width="200px">
